@@ -1,0 +1,1083 @@
+{
+  "administrative_units": [
+    {
+      "id": 1,
+      "name": "CONSEJO MUNICIPAL"
+    },
+    {
+      "id": 2,
+      "name": "DESPACHO DE LA ALCALDESA"
+    },
+    {
+      "id": 201,
+      "name": "DIRECCIÓN Y COORDINACIÓN DEL ALCALDE"
+    },
+    {
+      "id": 202,
+      "name": "ASESORÍAS DISUP"
+    },
+    {
+      "id": 203,
+      "name": "DIRECCIÓN DE RELACIONES PÚBLICAS E INTERNACIONALES"
+    },
+    {
+      "id": 204,
+      "name": "DIRECCION DE LA MUJER Y FAMILIA"
+    },
+    {
+      "id": 3,
+      "name": "DIRECCIÓN GENERAL DE ADQUISICIONES"
+    },
+    {
+      "id": 301,
+      "name": "DIRECCIÓN Y COORDINACIÓN DE ADQUISICIONES"
+    },
+    {
+      "id": 4,
+      "name": "DESPACHO DEL VICE-ALCALDE"
+    },
+    {
+      "id": 401,
+      "name": "DIRECCIÓN Y COORDINACIÓN DEL VICE ALCALDE"
+    },
+    {
+      "id": 5,
+      "name": "SECRETARÍA GENERAL"
+    },
+    {
+      "id": 501,
+      "name": "OFICINA DEL SECRETARIO GENERAL"
+    },
+    {
+      "id": 502,
+      "name": "DIRECCIÓN DE REGISTRO CIVIL"
+    },
+    {
+      "id": 503,
+      "name": "DIRECCIÓN CENTRO CONTROL DE TRANSITO"
+    },
+    {
+      "id": 6,
+      "name": "DIRECCIÓN GENERAL DE AUDITORÍA INTERNA"
+    },
+    {
+      "id": 601,
+      "name": "DIRECCIÓN Y COORDINACIÓN AUDITORIA INTERNA"
+    },
+    {
+      "id": 7,
+      "name": "DIRECCIÓN GENERAL LEGAL"
+    },
+    {
+      "id": 701,
+      "name": "DIRECCIÓN Y COORDINACIÓN LEGAL"
+    },
+    {
+      "id": 8,
+      "name": "DIRECCIÓN GENERAL DE SISTEMAS"
+    },
+    {
+      "id": 801,
+      "name": "DIRECCIÓN Y COORDINACIÓN DE SISTEMAS"
+    },
+    {
+      "id": 9,
+      "name": "DIRECCION GENERAL DE PLANIFICACION"
+    },
+    {
+      "id": 901,
+      "name": "DIRECCION Y COORDINACION DE PLANIFICACION"
+    },
+    {
+      "id": 10,
+      "name": "DIRECCION GENERAL DE DESAROLLO HUMANO"
+    },
+    {
+      "id": 1001,
+      "name": "DIRECCION Y COORDINACION DESARROLLO HUMANO"
+    },
+    {
+      "id": 1002,
+      "name": "DIRECCION DE PROGRAMAS SOCIALES"
+    },
+    {
+      "id": 1003,
+      "name": "DIRECCIÓN DE CULTURA Y PATRIMONIO HISTÓRICO MUNICIPAL"
+    },
+    {
+      "id": 1004,
+      "name": "DIRECCION DE DEPORTES"
+    },
+    {
+      "id": 11,
+      "name": "DIRECCIÓN GENERAL DE PROYECTOS"
+    },
+    {
+      "id": 1101,
+      "name": "DIRECCIÓN Y COORDINACIÓN DE PROYECTOS"
+    },
+    {
+      "id": 1102,
+      "name": "DIRECCIÓN DE FORMULACIÓN Y EVALUACIÓN"
+    },
+    {
+      "id": 1103,
+      "name": "DIRECCIÓN DE PROYECTOS MUNICIPALES"
+    },
+    {
+      "id": 12,
+      "name": "DIR. GRAL DE INFRAESTRUCTURA"
+    },
+    {
+      "id": 1201,
+      "name": "DIR. Y COORD. DE INFRAESTRUCTURA"
+    },
+    {
+      "id": 13,
+      "name": "DIRECCIÓN GENERAL DE RECAUDACIÓN"
+    },
+    {
+      "id": 1301,
+      "name": "DIR. Y COORD. DE RECAUDACIÓN"
+    },
+    {
+      "id": 14,
+      "name": "DIR. GRAL. MEDIO AMBIENTE Y URBANISMO"
+    },
+    {
+      "id": 1401,
+      "name": "DIR. Y COORD. MEDIO AMBIENTE Y URBANISMO"
+    },
+    {
+      "id": 1402,
+      "name": "DIRECCIÓN DE GESTIÓN AMBIENTAL"
+    },
+    {
+      "id": 1403,
+      "name": "DIRECCIÓN DE URBANISMO"
+    },
+    {
+      "id": 1404,
+      "name": "DIRECCIÓN DE CATASTRO MUNICIPAL"
+    },
+    {
+      "id": 15,
+      "name": "DIR. GRAL. DE ORNATO"
+    },
+    {
+      "id": 1501,
+      "name": "DIR. Y CORRD. DE ORNATO Y TALLERES"
+    },
+    {
+      "id": 1502,
+      "name": "DIRECCIÓN DE ORNATO"
+    },
+    {
+      "id": 1503,
+      "name": "DIR. DE TALLERES"
+    },
+    {
+      "id": 16,
+      "name": "DIR. GRAL. DE LIMPIEZA PUBLICA"
+    },
+    {
+      "id": 1601,
+      "name": "DIR. Y CORRD. DE LIMPIEZA PUBLICA"
+    },
+    {
+      "id": 17,
+      "name": "DIRECCIÓN GENERAL ADMINISTRATIVA FINANCIERA"
+    },
+    {
+      "id": 1701,
+      "name": "DIREC. Y COORD. ADMINISTRATIVA FINANCIERA"
+    },
+    {
+      "id": 1702,
+      "name": "DIRECCIÓN DE RECURSOS HUMANOS"
+    },
+    {
+      "id": 1703,
+      "name": "DIRECCIÓN DE SERVICIOS ADMINISTRATIVOS"
+    },
+    {
+      "id": 1704,
+      "name": "DIRECCIÓN DE ALMACENES"
+    },
+    {
+      "id": 1705,
+      "name": "DIRECCIÓN DE FINANZAS"
+    },
+    {
+      "id": 1706,
+      "name": "DPTO DEPÓSITO VEHICULAR (17-01-03-01)"
+    },
+    {
+      "id": 18,
+      "name": "DISTRITOS"
+    },
+    {
+      "id": 1801,
+      "name": "DISTRITO I"
+    },
+    {
+      "id": 1802,
+      "name": "DISTRITO II"
+    },
+    {
+      "id": 1803,
+      "name": "DISTRITO III"
+    },
+    {
+      "id": 1804,
+      "name": "DISTRITO IV"
+    },
+    {
+      "id": 1805,
+      "name": "DISTRITO V"
+    },
+    {
+      "id": 1806,
+      "name": "DISTRITO VI"
+    },
+    {
+      "id": 1807,
+      "name": "DISTRITO VII"
+    },
+    {
+      "id": 97,
+      "name": "PROYECTO DE INVERSIONES"
+    },
+    {
+      "id": 9712,
+      "name": "1100-472-006 PROG. DRENAJE PLUVIAL Y GESTION DE DESARROLLO "
+    },
+    {
+      "id": 9717,
+      "name": "9900-626-00 PROYECTO EMTRIDES"
+    },
+    {
+      "id": 9718,
+      "name": "1000-444-007 VIDA DEPORTIVA"
+    },
+    {
+      "id": 9723,
+      "name": "1400-421-008 PROGRAMA DE BONO AMBIENTAL"
+    },
+    {
+      "id": 9729,
+      "name": "1502-421-008 PASEO XOLOTLAN"
+    },
+    {
+      "id": 9730,
+      "name": "1100-421-022 ESTADIO NACIONAL OBRAS COMPLEMENTARIAS"
+    },
+    {
+      "id": 9731,
+      "name": "1100-421-004 MEJORAMIENTO VIAL INTERSECCIONES 7 SUR"
+    },
+    {
+      "id": 9738,
+      "name": "1100-421-020 PASEO XOLOTLÁN - VI ETAPA"
+    },
+    {
+      "id": 9742,
+      "name": "1804-422-006  MEJORAMIENTO VIAL Y OBRAS DE ALCANTARILLADO SANITARIO BARRIO MARIA AUXILIADORA"
+    },
+    {
+      "id": 9745,
+      "name": "1100-421-018 PARQUE LA PAZ II ETAPA"
+    },
+    {
+      "id": 9747,
+      "name": "1100-472-009 MEJORAMIENTO VIAL PROLONGACION PISTA LARREYNAGA"
+    },
+    {
+      "id": 9748,
+      "name": "9900-423-001 RECONSTRUCCION MODULOS MERCADO ORIENTAL"
+    },
+    {
+      "id": 9749,
+      "name": "1100-421-018 PARQUE LA PAZ II ETAPA "
+    },
+    {
+      "id": 9751,
+      "name": "1200-421-003 PLAN DE BACHEO EN CALLES DEL MUNICIPIO DE MANAGUA "
+    },
+    {
+      "id": 9752,
+      "name": " 1200-421-03 PLAN DE BACHEO EN CALLES DEL MUNICIPIO DE MANAGUA "
+    },
+    {
+      "id": 9753,
+      "name": "1400-421-012 FORTALECIMIENTO INST SERV URBANISTICOS"
+    },
+    {
+      "id": 9754,
+      "name": "1400-421-013 MEJORA CONTINUA FORTALECIMIENTO GESTION AMB"
+    },
+    {
+      "id": 9755,
+      "name": "1400-421-004 MODERNIZACION CENTRO DOC CATASTRAL"
+    },
+    {
+      "id": 9756,
+      "name": "1200-421-027 RECONSTRUCCION DE TRAGANTES EN CALLES DEL DISTRITO III"
+    },
+    {
+      "id": 9757,
+      "name": "1200-421-046 MEJORAMIENTO VIAL P LARREYNAGA TRAMO BELEN NORTE"
+    },
+    {
+      "id": 9758,
+      "name": "1200-421-017 AMPLIACION DESCARGA MICROPRESA VILLA FONTANA "
+    },
+    {
+      "id": 9759,
+      "name": "1200-421-034 PLAN DE REEMPLAZO INSTALACION DE TAPA Y REJILLAS DIII"
+    },
+    {
+      "id": 9760,
+      "name": "1502-421-004 MANTENIMIENTO PISTAS Y BOULEVARES"
+    },
+    {
+      "id": 9761,
+      "name": "1200-421-037 PLAN DE REEMPLAZO E INST DE TAPAS PVP REJILLAS EN TRAGANTES DIII"
+    },
+    {
+      "id": 9762,
+      "name": "9900-423-007 REHABILITACION PARQUE LA PAZ I ETAPA "
+    },
+    {
+      "id": 9763,
+      "name": "1100-472-007 REHABILITACION PISTA JUAN PABLO II "
+    },
+    {
+      "id": 9764,
+      "name": " 9900-423-11 COMPLEJO COMUNITARIO PARQUE LUIS ALF I FASE VII ETAPA"
+    },
+    {
+      "id": 9765,
+      "name": " 1400-421-09 MANEJO DEL AREA PROTEGIDA LAGUNA DE TISCAPA"
+    },
+    {
+      "id": 99,
+      "name": "PARTIDAS INSTITUCIONALES"
+    },
+    {
+      "id": 9901,
+      "name": "DISTRITO I"
+    },
+    {
+      "id": 9902,
+      "name": "DISTRITO II"
+    },
+    {
+      "id": 9903,
+      "name": "DISTRITO III"
+    },
+    {
+      "id": 9904,
+      "name": "DISTRITO IV"
+    },
+    {
+      "id": 9905,
+      "name": "DISTRITO V"
+    },
+    {
+      "id": 9906,
+      "name": "DISTRITO VI"
+    },
+    {
+      "id": 9907,
+      "name": "LUBRICO TALLER CENTRAL"
+    },
+    {
+      "id": 9908,
+      "name": "LIMPIEZA PUBLICA"
+    },
+    {
+      "id": 9909,
+      "name": "ALFABETIZACION"
+    },
+    {
+      "id": 9911,
+      "name": "DIRECCION DE ORNATO"
+    },
+    {
+      "id": 9912,
+      "name": "DISTRITO VII"
+    },
+    {
+      "id": 9913,
+      "name": "PARTIDAS INSTITUCIONALES"
+    },
+    {
+      "id": 9914,
+      "name": "ESTACIONES DE TRANSFERENCIA"
+    },
+    {
+      "id": 9915,
+      "name": "9900-362 EMTRIDES "
+    },
+    {
+      "id": 9916,
+      "name": "9900-627 EMPRESA MUNICIPAL DE DEPORTES"
+    }
+  ],
+  "vehicles": [
+    {
+      "id": 1,
+      "plate": "V971888",
+      "assigned_to": "DANIELA ALFARO",
+      "brand": null,
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 2,
+      "plate": "M148396",
+      "assigned_to": "ROXANA LOPEZ",
+      "brand": "ZUSUKI",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 3,
+      "plate": "M149223",
+      "assigned_to": "MARIA TERESA FLORES",
+      "brand": "CHEVROLET",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 4,
+      "plate": "M181124",
+      "assigned_to": "NOEL GONZALEZ",
+      "brand": "TOYOYA",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 5,
+      "plate": "M148397",
+      "assigned_to": "JOSE MARIA BERMUDEZ",
+      "brand": "TOYOYA",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 6,
+      "plate": "M257609",
+      "assigned_to": "GEMA NUÑEZ",
+      "brand": "ZUSUKI",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 7,
+      "plate": "TARJETA V971881 (DESBROZADORA PARQUE)",
+      "assigned_to": "LUIS GUTIERREZ",
+      "brand": null,
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 8,
+      "plate": "M163393",
+      "assigned_to": "LUIS GUTIERREZ",
+      "brand": "NISSAN",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 9,
+      "plate": "TARJETA V971882 ( PLANTA ELECTRICA PARQUE)",
+      "assigned_to": "LUIS GUTIERREZ",
+      "brand": null,
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 10,
+      "plate": "V971827",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": null,
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 11,
+      "plate": "V971826",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": null,
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 12,
+      "plate": "MY9441",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "NISSAN",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 13,
+      "plate": "M261712",
+      "assigned_to": "MILTON RUIZ",
+      "brand": "TOYOTA",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 2
+    },
+    {
+      "id": 14,
+      "plate": "M194442",
+      "assigned_to": "NORMA LIZETH LOPEZ ",
+      "brand": "TOYOTA",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 1
+    },
+    {
+      "id": 15,
+      "plate": "MY9441",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "NISSAN",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 1
+    },
+    {
+      "id": 16,
+      "plate": "M86987",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "HONDA",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 201
+    },
+    {
+      "id": 17,
+      "plate": "M31030",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "HONDA",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 201
+    },
+    {
+      "id": 18,
+      "plate": "M31075",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "HONDA",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 201
+    },
+    {
+      "id": 19,
+      "plate": "M31072",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "HONDA",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 201
+    },
+    {
+      "id": 20,
+      "plate": "M274476",
+      "assigned_to": "XOCILT ROJAS",
+      "brand": "HYUNDAI",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 201
+    },
+    {
+      "id": 21,
+      "plate": "M203218",
+      "assigned_to": "NOEL GONZALEZ",
+      "brand": "KIA",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 201
+    },
+    {
+      "id": 22,
+      "plate": "M157261",
+      "assigned_to": "ELVIRA REYES",
+      "brand": "ZUSUKI",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 202
+    },
+    {
+      "id": 23,
+      "plate": "S050129",
+      "assigned_to": "ALICIA BACA-MOV. GUARDABARRANCO",
+      "brand": "VARIOS",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 202
+    },
+    {
+      "id": 24,
+      "plate": "S050129",
+      "assigned_to": "ALICIA BACA-MOV. RUGAMA",
+      "brand": "VARIOS",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 202
+    },
+    {
+      "id": 25,
+      "plate": "S050193",
+      "assigned_to": "ALICIA BACA-MOV. RUGAMA",
+      "brand": "VARIOS",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 202
+    },
+    {
+      "id": 26,
+      "plate": "M165377",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "NISSAN",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 202
+    },
+    {
+      "id": 27,
+      "plate": "V971823",
+      "assigned_to": "Emilio",
+      "brand": "VARIOS",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 202
+    },
+    {
+      "id": 28,
+      "plate": "V971834",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "VARIOS",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 204
+    },
+    {
+      "id": 29,
+      "plate": "V971835",
+      "assigned_to": "PAVEL ARGEÑAL",
+      "brand": "VARIOS",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 204
+    },
+    {
+      "id": 30,
+      "plate": "M200132",
+      "assigned_to": "Alirio Cruz",
+      "brand": "TOYOTA",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 204
+    },
+    {
+      "id": 31,
+      "plate": "M194113",
+      "assigned_to": "Victor Alfonso Guido Gonzales",
+      "brand": "TOYOTA",
+      "gas_type": "DIESEL",
+      "assignment": 10,
+      "id_administrative_units": 204
+    },
+    {
+      "id": 34,
+      "plate": "M192312",
+      "assigned_to": "Denis Salinas",
+      "brand": "Mercedes",
+      "gas_type": "GASOLINA",
+      "assignment": 40,
+      "id_administrative_units": 3
+    },
+    {
+      "id": 35,
+      "plate": "M121314",
+      "assigned_to": "Fidias Araica",
+      "brand": "TOYOTA",
+      "gas_type": "DIESEL",
+      "assignment": 20,
+      "id_administrative_units": 3
+    },
+    {
+      "id": 36,
+      "plate": "M141312",
+      "assigned_to": "Katherine Gonzalez",
+      "brand": "CHEVROLET",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 3
+    },
+    {
+      "id": 37,
+      "plate": "M151413",
+      "assigned_to": "Norlan Aguilar",
+      "brand": "Yamaha",
+      "gas_type": "GASOLINA",
+      "assignment": 10,
+      "id_administrative_units": 8
+    },
+    {
+      "id": 38,
+      "plate": "M161514",
+      "assigned_to": "Nelson Novoa",
+      "brand": "TOYOTA",
+      "gas_type": "GASOLINA",
+      "assignment": 15,
+      "id_administrative_units": 8
+    },
+    {
+      "id": 39,
+      "plate": "M171615",
+      "assigned_to": "Cristopher Larios",
+      "brand": "Yamaha",
+      "gas_type": "GASOLINA",
+      "assignment": 13,
+      "id_administrative_units": 8
+    },
+    {
+      "id": 40,
+      "plate": "M181716",
+      "assigned_to": "Fidel Moreno",
+      "brand": "Mercedes",
+      "gas_type": "GASOLINA",
+      "assignment": 70,
+      "id_administrative_units": 501
+    },
+    {
+      "id": 41,
+      "plate": "M191817",
+      "assigned_to": "Reyna Rueda",
+      "brand": "TOYOTA",
+      "gas_type": "DIESEL",
+      "assignment": 40,
+      "id_administrative_units": 501
+    }
+  ],
+  "fuel": [
+    {
+      "id": 1,
+      "type": "Diesel",
+      "quantity": 300.0
+    },
+    {
+      "id": 2,
+      "type": "Gasolina",
+      "quantity": 150.0
+    }
+  ],
+  "consumtion_fuel": [
+    {
+      "id_consumtio": 1,
+      "cantidad_gl": 7,
+      "Date": "17/01/2023 08:30:00",
+      "id_vehicle": 1
+    },
+    {
+      "id_consumtio": 2,
+      "cantidad_gl": 3,
+      "Date": "27/01/2023 01:30:00",
+      "id_vehicle": 1
+    },
+    {
+      "id_consumtio": 3,
+      "cantidad_gl": 8,
+      "Date": "17/02/2023 21:30:00",
+      "id_vehicle": 1
+    },
+    {
+      "id_consumtio": 4,
+      "cantidad_gl": 2,
+      "Date": "27/02/2023 21:30:00",
+      "id_vehicle": 1
+    },
+    {
+      "id_consumtio": 5,
+      "cantidad_gl": 8,
+      "Date": "02/03/2023 10:30:00",
+      "id_vehicle": 1
+    },
+    {
+      "id_consumtio": 6,
+      "cantidad_gl": 2,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 1
+    },
+    {
+      "id_consumtio": 7,
+      "cantidad_gl": 7,
+      "Date": "17/01/2023 08:30:00",
+      "id_vehicle": 14
+    },
+    {
+      "id_consumtio": 8,
+      "cantidad_gl": 3,
+      "Date": "27/01/2023 01:30:00",
+      "id_vehicle": 14
+    },
+    {
+      "id_consumtio": 9,
+      "cantidad_gl": 8,
+      "Date": "17/02/2023 21:30:00",
+      "id_vehicle": 14
+    },
+    {
+      "id_consumtio": 10,
+      "cantidad_gl": 2,
+      "Date": "27/02/2023 21:30:00",
+      "id_vehicle": 14
+    },
+    {
+      "id_consumtio": 11,
+      "cantidad_gl": 8,
+      "Date": "02/03/2023 10:30:00",
+      "id_vehicle": 14
+    },
+    {
+      "id_consumtio": 12,
+      "cantidad_gl": 2,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 14
+    },
+    {
+      "id_consumtio": 13,
+      "cantidad_gl": 7,
+      "Date": "17/01/2023 08:30:00",
+      "id_vehicle": 14
+    },
+    {
+      "id_consumtio": 14,
+      "cantidad_gl": 3,
+      "Date": "27/01/2023 01:30:00",
+      "id_vehicle": 16
+    },
+    {
+      "id_consumtio": 15,
+      "cantidad_gl": 8,
+      "Date": "17/02/2023 21:30:00",
+      "id_vehicle": 16
+    },
+    {
+      "id_consumtio": 16,
+      "cantidad_gl": 2,
+      "Date": "27/02/2023 21:30:00",
+      "id_vehicle": 16
+    },
+    {
+      "id_consumtio": 17,
+      "cantidad_gl": 8,
+      "Date": "02/03/2023 10:30:00",
+      "id_vehicle": 16
+    },
+    {
+      "id_consumtio": 18,
+      "cantidad_gl": 2,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 16
+    },
+    {
+      "id_consumtio": 19,
+      "cantidad_gl": 2,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 22
+    },
+    {
+      "id_consumtio": 20,
+      "cantidad_gl": 8,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 22
+    },
+    {
+      "id_consumtio": 21,
+      "cantidad_gl": 2,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 22
+    },
+    {
+      "id_consumtio": 22,
+      "cantidad_gl": 8,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 22
+    },
+    {
+      "id_consumtio": 23,
+      "cantidad_gl": 2,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 22
+    },
+    {
+      "id_consumtio": 24,
+      "cantidad_gl": 7,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 22
+    },
+    {
+      "id_consumtio": 20,
+      "cantidad_gl": 2,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 28
+    },
+    {
+      "id_consumtio": 21,
+      "cantidad_gl": 8,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 28
+    },
+    {
+      "id_consumtio": 22,
+      "cantidad_gl": 4,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 28
+    },
+    {
+      "id_consumtio": 23,
+      "cantidad_gl": 6,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 28
+    },
+    {
+      "id_consumtio": 24,
+      "cantidad_gl": 5,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 28
+    },
+    {
+      "id_consumtio": 25,
+      "cantidad_gl": 5,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 28
+    },
+    {
+      "id_consumtio": 26,
+      "cantidad_gl": 2,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 34
+    },
+    {
+      "id_consumtio": 27,
+      "cantidad_gl": 8,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 34
+    },
+    {
+      "id_consumtio": 28,
+      "cantidad_gl": 4,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 34
+    },
+    {
+      "id_consumtio": 29,
+      "cantidad_gl": 6,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 34
+    },
+    {
+      "id_consumtio": 30,
+      "cantidad_gl": 5,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 34
+    },
+    {
+      "id_consumtio": 31,
+      "cantidad_gl": 5,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 34
+    },
+    {
+      "id_consumtio": 32,
+      "cantidad_gl": 2,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 38
+    },
+    {
+      "id_consumtio": 33,
+      "cantidad_gl": 8,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 38
+    },
+    {
+      "id_consumtio": 34,
+      "cantidad_gl": 4,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 38
+    },
+    {
+      "id_consumtio": 35,
+      "cantidad_gl": 6,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 38
+    },
+    {
+      "id_consumtio": 36,
+      "cantidad_gl": 5,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 38
+    },
+    {
+      "id_consumtio": 37,
+      "cantidad_gl": 5,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 38
+    },
+    {
+      "id_consumtio": 38,
+      "cantidad_gl": 2,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 40
+    },
+    {
+      "id_consumtio": 39,
+      "cantidad_gl": 8,
+      "Date": "10/01/2023 02:30:00",
+      "id_vehicle": 40
+    },
+    {
+      "id_consumtio": 40,
+      "cantidad_gl": 4,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 40
+    },
+    {
+      "id_consumtio": 41,
+      "cantidad_gl": 6,
+      "Date": "10/02/2023 02:30:00",
+      "id_vehicle": 40
+    },
+    {
+      "id_consumtio": 42,
+      "cantidad_gl": 5,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 40
+    },
+    {
+      "id_consumtio": 43,
+      "cantidad_gl": 5,
+      "Date": "10/03/2023 02:30:00",
+      "id_vehicle": 40
+    }
+  ]
+}
